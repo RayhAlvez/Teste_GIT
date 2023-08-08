@@ -2,3 +2,4 @@
 ## Abrindo comandos
 * comando push
 * comando pull
+* comando fetch
